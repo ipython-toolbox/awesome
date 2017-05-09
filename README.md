@@ -4,4 +4,4 @@
 
 Notebook Gallery - [Links to the best IPython and Jupyter Notebooks](http://nb.bianp.net/sort/views/)
 
-[Data Science iython Notebooks(https://github.com/donnemartin/data-science-ipython-notebooks)
+[Data Science iython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
